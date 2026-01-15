@@ -1,0 +1,8 @@
+PySide6
+speechrecognition
+sounddevice
+numpy
+psutil
+pyttsx3
+opencv-python
+ollama 
